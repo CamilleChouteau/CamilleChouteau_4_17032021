@@ -1,7 +1,9 @@
 # Camille Chouteau
-## La Chouette agence
+## La Chouette agence ([GitHub Pages](https://camillechouteau.github.io/CamilleChouteau_4_17032021/))
 
 Projet 4 du parcours **Développeur·euse web** d'OpenClassrooms : **Optimisez un site web existant**.
+
+
 
 ### Objectifs
 - Écrire un code HTML et CSS maintenable
