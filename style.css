@@ -827,7 +827,7 @@ h4 {
     background-image: url("img/image-de-presentation.webp");
 }
 
-/** Modifications **/
+/******************** Modifications ***********************/
 
 .presentation-text {
     font-size: 2rem;
@@ -857,6 +857,18 @@ h4 {
     width: 100px;
     height: auto;
 }
+
+.title-contact {
+color: black;
+}
+
+.text-contact {
+color: black;
+font-size: 2.4rem;
+}
+
+
+/******************** End of modifications ***********************/
 
 @media (max-width: 1024px) {
     .bloc {
